@@ -1,4 +1,4 @@
-### hello there 😊
+### Hello there 😊
 <a href="https://www.instagram.com/kisangalex/"> 
   <img align="left" alt="Kisang's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Kisang Ali](https://twitter.com/AliKisang), a passionate self-taught **Full Stack web developer** and a freelance software engineer from **Nairobi, Kenya**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Kisang Alex](https://twitter.com/AliKisang), a passionate self-taught **Full Stack Developer** and a freelance software engineer from **Nairobi, Kenya**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I would like to share my knowledge by contributing to open source and sharing ideas with senior Software Engineer around the globe.
 ___
@@ -24,7 +24,7 @@ ____
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:alikisang9@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:kipkosgeialex3@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **Languages and Tools:**  
