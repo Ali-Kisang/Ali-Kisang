@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m currently focused on developing mobile applications for iOS and Android using Flutter, aiming to create efficient and user-friendly experiences across platforms. I'm also delving into Artificial Intelligence with Python, exploring machine learning and data-driven solutions to expand my expertise in AI. Let's connect and build something impactful together!
+Hi there! I’m currently focused on developing mobile applications for iOS and Android using React Native, aiming to create efficient and user-friendly experiences across platforms. I'm also delving into Artificial Intelligence with Python, exploring machine learning and data-driven solutions to expand my expertise in AI. Let's connect and build something impactful together!
 
 
 ## 🌐 Socials:
